@@ -23,3 +23,7 @@
 
       - docker pull bitcoin06/demoapplication
       - docker run -d -t 3002:3001 demoapplication
+
+## AWS node document
+
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
