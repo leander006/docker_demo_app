@@ -39,6 +39,6 @@ app.post("/", (req, res) => {
   data.push(newData);
   res.status(201).json({ message: "Data added successfully!!!" });
 });
-app.listen(3001, () => {
+app.listen(3004, () => {
   console.log(`Backend runnig on port 3001`);
 });
